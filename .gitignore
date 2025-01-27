@@ -1,0 +1,89 @@
+# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+
+# dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+
+# Native
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+
+# debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+*.pem
+
+# local env files
+.env*.local
+
+# typescript
+*.tsbuildinfo
+
+
+
+
+SkinDiseasePredictions/node_modules/
+
+SkinDiseasePredictions/my_model.h5
+model/my_model.h5
+model/my_model.h5
+model/*
+
+
+
+
+
+
+# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+
+# dependencies
+SkinDiseasePredictions/node_modules/
+
+# Expo
+SkinDiseasePredictions/.expo/
+SkinDiseasePredictions/dist/
+SkinDiseasePredictions/web-build/
+
+# Native
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+SkinDiseasePredictions/.metro-health-check*
+
+# debug
+SkinDiseasePredictions/npm-debug.*
+SkinDiseasePredictions/yarn-debug.*
+SkinDiseasePredictions/yarn-error.*
+
+# macOS
+.DS_Store
+*.pem
+
+# local env files
+SkinDiseasePredictions/.env*.local
+
+# typescript
+*.tsbuildinfo
+
+
+SkinDiseasePredictions/my_model.h5
